@@ -1,24 +1,24 @@
-# 🔄 Rotating Image Carousel
+# Rotating Image Carousel
 
-A smooth infinite looping image carousel with a 3D-style rotation effect.
+website: https://magicanime709-dev.github.io/Rotating-picture-animation/
 
-## ✨ Features
+# Features
 
 * Auto-rotating image loop
 * Clean visual animation
 * Built with HTML, CSS, and JavaScript
 
-## 🚧 Improvements (Planned)
+# Improvements (Planned)
 
 * Manual scroll / swipe control
 * Faster interaction handling
 
-## 🧠 What I Learned
+# What I Learned
 
 * JavaScript user interaction restrictions
 * Handling animations and performance
 
-## ⚠️ Note
+# Note
 
 Inspired by existing projects — rebuilt and customized for learning.
 
