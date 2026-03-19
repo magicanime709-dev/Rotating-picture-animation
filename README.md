@@ -2,7 +2,7 @@
 
 website: https://magicanime709-dev.github.io/Rotating-picture-animation/
 
-Creates an infinite loop of rotating image, drag to stop rotation
+Creates an infinite loop of rotating image, click hold to stop rotation
 
 # Features
 
