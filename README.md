@@ -25,3 +25,5 @@ Inspired by existing projects — rebuilt and customized for learning.
 ---
 
 *Simple idea, solid practice.*
+
+https://github.com/user-attachments/assets/6889ac1a-9a93-43bb-9c2a-e13d535e34d4
